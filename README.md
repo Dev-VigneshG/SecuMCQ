@@ -19,4 +19,10 @@ Welcome to SecuMCQ Website, a cutting-edge platform designed to conduct secure M
 ## Future Enhancements
 
 - **Responsive Design:** Enhance accessibility with a responsive, mobile-friendly interface for users on the go.
+- 
+## Technologies Used
+
+- **Backend:** PHP
+- **Frontend:** HTML, CSS, JavaScript
+- **Database:** MySQL
 
